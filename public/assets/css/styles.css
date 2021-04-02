@@ -68,3 +68,14 @@ html, body {
   padding: 20px;
   cursor: pointer;
 }
+
+#backToMainBtn {
+  display: inline-block;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-right: 50px;
+  margin-top: 2px;
+  font-size: 1.171875rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
