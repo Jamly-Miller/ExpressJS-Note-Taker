@@ -7,9 +7,7 @@ An application that can be used to WRITE and SAVE notes.
 
 ## User Story
 
-```
 AS A small business owner / individual, I want to be able to WRITE and SAVE notes so that I can ORGANIZE my thoughts and KEEP TRACK of tasks I need to complete.
-```
 
  
 ## Table of Contents
@@ -90,7 +88,7 @@ backEnd is not as hard as I tought, playing with ``` router ``` was a lot fun.
 
 ##  Challenges
 
-I stucked on making the SAVE ICON appers, had to go over JS files and figure out the problem.
+I stucked on ``` making the SAVE ICON appers```, I had to go over JS files and figure out the problem.
 
 
 ## Finished Product
