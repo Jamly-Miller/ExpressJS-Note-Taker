@@ -40,7 +40,7 @@ router.delete("/notes/:id", (req, res) => {
 
         fs.writeFile("./db/db.json", JSON.stringify(clearedNote), (err) => {
             if (err) return res.JSON({ err: "problem deleting" });
-            res.json({msg: "Just Added" });
+            res.json({msg: "Just Delated" });
         });
     });
 });
